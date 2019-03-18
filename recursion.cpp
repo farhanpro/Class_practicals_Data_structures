@@ -8,7 +8,7 @@ int computing(int n){
 		else {
 	int	result =computing (n-1);//4//
 		cout<<"Computing :"<<result<<endl;
-		cout<<"N is"<<n<<endl;
+		//cout<<"N is"<<n<<endl;
 		return n;
 }
 	}
